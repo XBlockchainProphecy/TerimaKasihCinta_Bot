@@ -22,7 +22,7 @@ PM_START_TEXT = """
 Hi {}, my name is {}! If you have any questions on how to use me, read /help - @XBlockchainProphecy.
 
 I'm a group manager bot maintained by [this wonderful person](tg://user?id={}). I'm built in python3, using the \
-python-telegram-bot library, and am fully - you can find what makes me tick \
+python-telegram-bot library, and am fully opencourse - you can find what makes me tick \
 [here](https://t.me/XBlockchainProphecy)! 
 
 You can find the list of available commands with /help.
