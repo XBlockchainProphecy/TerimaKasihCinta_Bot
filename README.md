@@ -15,7 +15,7 @@ I'll also help when a database schema changes, and some table column needs to be
 Join the [Bitcoiners channel](https://t.me/joinchat/AAAAAEr5_DfA8JUJsfpODQ) if you just want to stay in the loop about new features or
 announcements.
 
-Alternatively, [find me on telegram](https://t.me/XBlockchainProphecy)! (Keep all support questions in the support chat, where more people can help you.)
+Alternatively, [@XBlockchainProphecy](https://t.me/XBlockchainProphecy)! (Keep all support questions in the support chat, where more people can help you.)
 
 ## Starting the bot.
 
