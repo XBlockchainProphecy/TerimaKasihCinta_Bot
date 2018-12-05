@@ -24,7 +24,7 @@ Hi {}, my name is {}.
 I'm a group manager bot maintained by [@XBlockchainProphecy](tg://user?id={}).
 I'm built in python3, using the \
 python-telegram-bot library.
-You can find the list of available commands with /help
+Find the list of available commands with /help.
 
 Support Groups and Channel
 [ Bitcoindonesia ](https://t.me/joinchat/KAiijU0BwmaGSN8BFS5kRg)
