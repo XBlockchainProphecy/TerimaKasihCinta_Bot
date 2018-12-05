@@ -23,10 +23,16 @@ Hi {}, my name is {}.
 
 I'm a group manager bot maintained by [@XBlockchainProphecy](tg://user?id={}).
 I'm built in python3, using the \
-python-telegram-bot library, and am fully opencourse - you can find what makes me tick \
-[here](https://t.me/XBlockchainProphecy)! 
-
+python-telegram-bot library.
 You can find the list of available commands with /help.
+
+Support Groups and Channel !!
+[ Bitcoiners ](https://t.me/joinchat/KAiijUuNi1IFnWQHh7t16A)
+[ Ai®Droppers ](https://t.me/joinchat/KAiijUXuAjtHzKL7S-RD2A)
+[ BITCOIN USA ](https://t.me/joinchat/KAiijUgvwC2eHskkYrml8g)
+[ Bitcoindonesia ](https://t.me/joinchat/KAiijU0BwmaGSN8BFS5kRg)
+[ Blockchain Prophecy ](https://t.me/joinchat/KAiijVNZVQ6-2_fn7akFGQ)
+[ Our Channel ](https://t.me/joinchat/AAAAAEr5_DfA8JUJsfpODQ)
 
 If you're enjoying using me, and/or would like to help me survive in the wild, hit /donate to help fund/upgrade my VPS!
 """
