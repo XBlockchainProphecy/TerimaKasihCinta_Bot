@@ -21,7 +21,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 Hi {}, my name is {}.
 
-I'm a group manager bot maintained by [@XBlockchainProphecy](tg://user?id={}).
+I'm a group manager bot maintained by [XBlockchainProphecy](tg://user?id={}).
 I'm built in python3, using the \
 python-telegram-bot library.
 Find the list of available commands with /help.
